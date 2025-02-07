@@ -1,4 +1,4 @@
-module github.com/mazafrav/mzafra.github.io
+module github.com/hugo-toha/hugo-toha.github.io
 
 go 1.21
 
