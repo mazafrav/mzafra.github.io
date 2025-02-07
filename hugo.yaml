@@ -70,7 +70,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/mazafrav/mzafra.github.io
+  gitRepo: https://github.com/mazafrav/mazafrav.github.io
   # Default branch of your Git repo
   gitBranch: main
 
