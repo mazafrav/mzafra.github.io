@@ -3,17 +3,23 @@ name: "Manu Zafra"
 nickname: "Manu"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi! I am"
-image: "images/author/john.png"
+image: "images/author/retrato2.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "mazafrav@gmail.com"
   phone: "+34 652 58 20 94"
   github: mazafrav
+  itchio:
+    icon: itchio
+    url : "https://https://acidgecko.itch.io/"
+    text: "Itch.io"
+
 
 # some summary about what you do
 summary:
   - I am a Videogame Designer
   - I am a Software Engineer
-  - I love to work with some fun projects
-  - I accidentally skipped a cutscene
   - I love creating experiences
+  - I like to work with some fun projects
+  - I accidentally skipped a cutscene
+  - Oops

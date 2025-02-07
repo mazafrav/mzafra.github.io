@@ -5,7 +5,7 @@ section:
   enable: true
   weight: 2
   showOnNavbar: true
-  filter: true
+  filter: false
   # Can optionally hide the title in sections
   # hideTitle: true
 
@@ -25,13 +25,13 @@ buttons:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
+- name: UnrealEngine
   logo: /images/sections/skills/kubernetes.png
   summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
   categories: ["container"]
   url: "https://kubernetes.io/"
 
-- name: Go Development
+- name: Unity
   logo: /images/sections/skills/go.png
   summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
   categories: ["basic", "language"]
@@ -56,7 +56,7 @@ skills:
 
 - name: Linux
   logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+  summary: "Used along my education and professional carreer . Capable of writing bash/shell scripts."
   categories: ["others"]
 
 - name: Git
