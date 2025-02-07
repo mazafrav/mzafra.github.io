@@ -1,7 +1,7 @@
-baseURL: https://hugo-toha.github.io
+baseURL: https://mazafrav.github.io/mzafra.github.io/
 
 languageCode: bn
-title: "John's Blog"
+title: "Manu Zafra"
 
 # Use Hugo modules to add theme
 module:
