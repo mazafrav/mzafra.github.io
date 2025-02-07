@@ -78,9 +78,9 @@ experiences:
     # darkLogo: /images/sections/experiences/company3.jpg
     overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Collaborator
+    start: 2015
+    end: 2017
     responsibilities:
     - Count lost of interns.
     - Count more interns.
