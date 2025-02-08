@@ -7,7 +7,7 @@ You can modify or distribute the theme without requiring any permission from the
 However, the theme author does not provide any warranty or takes any liability for any issue with the theme."
 
 # Meta description for your site.  This will help the search engines to find your site.
-description: Portfolio and personal blog of John Doe.
+description: Portfolio of Manu Zafra.
 
 
 # Specify OpenGraph Headers
@@ -15,5 +15,5 @@ openGraph:
   title: Manu Zafra
   type: website
   description: Portfolio of Manu Zafra.
-  image: images/author/john.png
-  url: https://hugo-toha.github.io
+  image: images/author/retrato2.png
+  url: https://mazafrav.github.io

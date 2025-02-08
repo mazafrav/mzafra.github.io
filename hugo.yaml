@@ -2,6 +2,7 @@ baseURL: https://mazafrav.github.io
 
 languageCode: en
 title: "Manu Zafra"
+navBarTitle: "Manu Zafra - Portfolio"
 
 # Use Hugo modules to add theme
 module:
@@ -23,7 +24,7 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "John's Blog"
+    title: "Manu Zafra - Portfolio"
     weight: 1
 # default language for the content
 defaultContentLanguage: en
@@ -60,9 +61,9 @@ params:
   # Provide logos for your site. The inverted logo will be used in the initial
   # transparent navbar and the main logo will be used in the non-transparent navbar.
   logo:
-    main: /images/site/main-logo.png
-    inverted: /images/site/inverted-logo.png
-    favicon: /images/site/favicon.png
+    main: /images/site/logopizel.png
+    inverted: /images/site/logopizel.png
+    favicon: /images/site/logopizel.png
 
   # GitHub repo of your site
   gitRepo: https://github.com/mazafrav/mazafrav.github.io
