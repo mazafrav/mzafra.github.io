@@ -12,71 +12,40 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: "Machine Learning"
-  filter: "machinelearning"
-- name: "Image Processing"
-  filter: "image-processing"
-- name: Security
-  filter: "security"
+- name: "Videogame"
+  filter: "videogame"
+- name: "Scientific Paper"
+  filter: "scientific"
 
 # your publications
 publications:
-- title: An Example Paper on Machine Learning
-  publishedIn:
-    name: 2020 IEEE Region Symposium (TENSYMP)
-    date: 7 June 2020
-    url: https://example.com
-  authors:
-  - name: Dr. Madman
-    url: https://example.com
-  - name: Dr. Lessmad
-    url: https://example.com
-  - name: Dr. Moremad
-    url: https://example.com
-  - name: Dr. Goodman
-    url: https://example.com
-  paper:
-    summary: Voluptate in id id voluptate laboris. Minim mollit aliquip sit aliqua ut exercitation voluptate eiusmod consequat pariatur sunt enim veniam. Velit esse tempor laboris anim tempor officia. Magna non labore duis do esse sit do ipsum culpa. Officia consequat id non duis culpa dolor. Excepteur magna non nostrud cupidatat aute aliqua aliquip.
-    url: https://example.com
-  categories: ["machinelearning","image-processing"]
-  tags: ["Machine Learning", "Autonomous Driving", "Computer Vision"]
 
-- title: An Sample Paper on Image Processing
+- title: "Aard & Wyzz"
   publishedIn:
-    name: 2020 IEEE Region Symposium (TENSYMP)
-    date: 7 June 2020
-    url: https://example.com
-  authors:
-  - name: Dr. Madman
-    url: https://example.com
-  - name: Dr. Lessmad
-    url: https://example.com
-  - name: Dr. Moremad
-    url: https://example.com
-  - name: Dr. Goodman
-    url: https://example.com
+    name: Steam
+    date: 15 Jul 2024
+    url: https://store.steampowered.com/app/2984220/Aard_and_Wyzz_The_rise_of_minions
+  authors: 
+  - name: Curious Imp
   paper:
-    summary: Ullamco magna minim cupidatat Lorem ea ex aliqua fugiat et. Dolor quis cillum ea duis irure et commodo aliquip consectetur ullamco labore ut anim nisi. Commodo reprehenderit est consectetur tempor adipisicing occaecat exercitation amet do aliquip dolor do irure. Labore officia ut magna pariatur reprehenderit et ex sit sunt. Magna proident ullamco adipisicing sit.
-    url: https://example.com
-  categories: ["image-processing"]
-  tags: ["Image Processing", "Computer Vision"]
+    summary: "Aard and Wyzz: The rise of minions is a local cooperative action-adventure video game where two players will take on the role of the boss Ardwiz, a tyrant wizard recently divided in two after the unexpected rebellion of his minions, with a lot of extra hours in his body. These two mages will have to work together, using their magical abilities and strength, as well as merging at certain times to enhance their skills and defeat the senior staff of the office."    
+  url: https://store.steampowered.com/app/2984220/Aard_and_Wyzz_The_rise_of_minions
+  categories: ["videogame"]
+  tags: ["Videogame", "Design", "Development"]
 
-- title: An Example Paper on Security
+
+- title: "Fine 3D Path following of a Quadcopter"
   publishedIn:
-    name: 2020 IEEE Region Symposium (TENSYMP)
-    date: 7 June 2020
-    url: https://example.com
+    name: Iberian Robotics Conference 2017
+    date: Nov 2017
+    url: https://link.springer.com/book/10.1007/978-3-319-70833-1
   authors:
-  - name: Dr. Madman
-    url: https://example.com
-  - name: Dr. Lessmad
-    url: https://example.com
-  - name: Dr. Moremad
-    url: https://example.com
-  - name: Dr. Goodman
-    url: https://example.com
+  - name: Manuel Zafra Villar
+  - name: "Jose Maria Canas Plaza"
   paper:
-    summary: Dolor ad cupidatat pariatur nulla ipsum ex ullamco nisi anim ullamco. Dolore elit esse in exercitation minim aliqua. Amet velit incididunt magna laboris. Proident reprehenderit deserunt ad officia duis dolor. Tempor nostrud ullamco ullamco sint deserunt cupidatat irure minim consectetur nulla adipisicing sunt.
-    url: https://example.com
-  categories: ["security"]
-  tags: ["Machine Learning", "Autonomous Driving", "Machine Vision"]
+    summary: This paper addresses the design and implementation of a path following controlling system for a drone which relies on 3D localization by visual markers. It has been designed only for indoor flights. Special attention is paid to accuracy of the position estimation algorithm, robustness of the path following controller and real time operation. The path following system is composed of two components, one responsible of the image analysis and 3D pose estimation and another responsible of the drone navigation. It has been experimentally validated both in Gazebo simulator and in a real drone.
+    url: https://link.springer.com/book/10.1007/978-3-319-70833-1
+  categories: ["scientific"]
+  tags: ["Scientific Paper", "Computer Vision", "Robotics"]
+
+

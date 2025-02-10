@@ -19,7 +19,7 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: "I'm a Game Designer with a background in Software Engineering.<br><br>
+summary: "I'm a Game Designer with a background in Software Engineering.
 I’m passionate about crafting immersive games and designing meaningful player experiences.<br><br>
 My technical expertise, combined with my creative vision, gives me a versatile skill set that allows me to contribute across all aspects of game development."
 
@@ -58,32 +58,32 @@ badges:
 #  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
 
 - type: soft-skill-indicator
-  name: Leadership
+  name: Videogame Design
   percentage: 85
   color: blue
 
 - type: soft-skill-indicator
-  name: Team Work
+  name: Software Develpment
   percentage: 90
   color: yellow
 
 - type: soft-skill-indicator
-  name: Hard Working
-  percentage: 85
+  name: Team Management
+  percentage: 80
   color: orange
-
-- type: soft-skill-indicator
-  name: Leadership
-  percentage: 85
-  color: green
 
 - type: soft-skill-indicator
   name: Team Work
   percentage: 90
+  color: green
+
+- type: soft-skill-indicator
+  name: Communication
+  percentage: 80
   color: "#BCA6F5"
 
 - type: soft-skill-indicator
-  name: Hard Working
+  name: Critical thinking
   percentage: 85
   color: "#D9FFF7"
 
