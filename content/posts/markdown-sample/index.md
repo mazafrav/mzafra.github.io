@@ -1,6 +1,6 @@
 ---
-title: "Markdown Samples"
-date: 2020-06-08T08:06:25+06:00
+title: "Aard & Wyzz : The Rise Of Minions"
+#date: 2020-06-08T08:06:25+06:00
 description: Markdown rendering samples
 menu:
   sidebar:
