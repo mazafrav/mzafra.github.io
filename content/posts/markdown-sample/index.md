@@ -1,15 +1,17 @@
 ---
 title: "Aard & Wyzz : The Rise Of Minions"
-#date: 2020-06-08T08:06:25+06:00
-description: Markdown rendering samples
+date: 2020-06-08T08:06:25+06:00
+description: "Aard & Wyzz : The Rise Of Minions"
+image: images/sections/projects/MainMenu.png
+hero: images/sections/projects/MainMenu.png
 menu:
   sidebar:
-    name: Markdown Sample
-    identifier: markdown
+    name: Aard & Wyzz
+    identifier: aardwyzz
     weight: 30
 author:
-  name: Jessica Jonas
-  image: /images/author/jessica.png
+  name: Manu Zafra
+  image: images/site/logopizel.png
 math: true
 ---
 

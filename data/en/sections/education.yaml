@@ -19,14 +19,17 @@ degrees:
     logo: /images/sections/education/ucm.jpg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/tech_college.png
-
   publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
-  - title: Nullam vitae orci tincidunt purus viverra pulvinar.
-    url: "#"
+  - title: "Aard & Wyzz: The rise of minions"
+    url: "https://store.steampowered.com/app/2984220/Aard_and_Wyzz_The_rise_of_minions/"
+
+  #publications: #(optional)
+  #- title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  #  url: "#"
+  #- title: Fusce eu augue ut odio porttitor pulvinar.
+  #  url: "#"
+  #- title: Nullam vitae orci tincidunt purus viverra pulvinar.
+  #  url: "#"
 - name: Telecomunications Engineering Degree
   icon: fa-solid fa-satellite-dish
   timeframe: 2017
@@ -36,14 +39,10 @@ degrees:
     logo: /images/sections/education/urjc.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/tech_college.png
-
   publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
-  - title: Nullam vitae orci tincidunt purus viverra pulvinar.
-    url: "#"
+  - title: Fine 3D Path Following of a Quadcopter
+    url: "https://www.researchgate.net/publication/321019491_Fine_3D_Path_Following_of_a_Quadcopter"
+
 - name: Computer Science Degree
   icon: fa-computer
   timeframe: 2017
@@ -53,19 +52,4 @@ degrees:
     logo: /images/sections/education/urjc.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/university.jpg
-  publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
-  extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
-  customSections: #(optional)
-    - name: Thesis
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - name: Supervisor
-      content: Fusce eu augue ut odio porttitor pulvinar.
 
