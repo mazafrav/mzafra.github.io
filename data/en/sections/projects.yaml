@@ -25,7 +25,7 @@ projects:
   image: /images/sections/projects/AW.png
   role: Game Designer
   timeline: "2023 - Present"
-  url: "/posts/markdown-sample/"
+  url: "/posts/aw/"
   summary: Local co-op adventure videogame.<br>Play as two mages trying to regain their power in a humorous fantasy setting.<br> Made by Curious Imp with a team of 17 people.
   tags: ["videogame"]
 
@@ -33,7 +33,7 @@ projects:
   image: /images/sections/projects/pathocartel.png
   role: Game Designer, Artist, Programmer
   timeline: "2023 - Present"
-  #url: ""
+  url: "/posts/pathogenesis/"
   summary: Pathogenesis is a 2D platform-based puzzle game where you control a vulnerable virus striving to survive in a microscopic world.
   tags: ["videogame"]
 
@@ -41,9 +41,16 @@ projects:
   image: /images/sections/projects/ourhome.png
   role: Solo developer
   timeline: "2024"
-  #url: ""
+  url: "/posts/ourhome/"
   summary: This is a deeply personal project where I wanted to experiment with creating an interactive narrative experience. <br>Through this game, I aimed to convey the emotions and challenges of navigating a difficult and transformative period in my life. 
   tags: ["videogame", "personal"]
+
+- name: Joselito's Dreams
+  role: Developer
+  timeline: "GGJ 2024"
+  url: "https://acidgecko.itch.io/joselitos-dream"
+  summary: Videogame made for the GGJ 2024. <br>Not very sure what our purpose was here, but we had tons of fun making it.
+  tags: ["gamejam","videogame"]
 
 - name: Matryoshka
   image: /images/sections/projects/matri.png
@@ -57,20 +64,14 @@ projects:
   image: /images/sections/projects/fpscreenshot.png
   role: Developer
   timeline: "2024"
+  url: "/posts/fpsstudy/"
   summary: This project focuses on level blocking for a first-person horror game. <br>I aimed to explore how to create tension and suspense through level design, all while working with limited resources.
   tags: ["personal"]
-
-- name: Joselito's Dreams
-  role: Developer
-  timeline: "GGJ 2024"
-  url: "https://acidgecko.itch.io/joselitos-dream"
-  summary: Videogame made for the GGJ 2024. <br>Not very sure what our purpose was here, but we had tons of fun making it.
-  tags: ["gamejam","videogame"]
 
 - name: DM Vault
   logo: /images/sections/projects/dnd.jpg
   role: Dungeon Master
+  url: "/posts/dmvault/"
   summary: Notes and encounters designed for the TTRPGs I've runned as a DM
   tags: ["personal"]
-
 
