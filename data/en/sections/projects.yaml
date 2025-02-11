@@ -22,7 +22,7 @@ buttons:
 # your projects
 projects:
 - name: Aard & Wyzz
-  image: /images/sections/projects/aw.png
+  image: /images/sections/projects/AW.png
   role: Game Designer
   timeline: "2023 - Present"
   url: "/posts/markdown-sample/"
