@@ -22,44 +22,55 @@ buttons:
 # your projects
 projects:
 - name: Aard & Wyzz
-  #logo: /images/sections/projects/kubernetes.png
-  image: /images/sections/projects/MainMenu.png
-  role: Lead Designer
+  image: /images/sections/projects/aw.png
+  role: Game Designer
   timeline: "2023 - Present"
   url: "/posts/markdown-sample/"
-  summary: Local co-op adventure videogame. <br> Made by Curious Imp with a team of 17 people.
+  summary: Local co-op adventure videogame.<br>Play as two mages trying to regain their power in a humorous fantasy setting.<br> Made by Curious Imp with a team of 17 people.
   tags: ["videogame"]
 
 - name: Pathogenesis
-  logo: /images/sections/projects/tensorflow.png
-  role: Developer
-  timeline: "Jun 2018 - Present"
-  repo: https://github.com/tensorflow/tensorflow
+  image: /images/sections/projects/pathocartel.png
+  role: Game Designer, Artist, Programmer
+  timeline: "2023 - Present"
   #url: ""
-  summary: An Open Source Machine Learning Framework for Everyone.
-  tags: ["professional", "machine-learning"]
+  summary: Pathogenesis is a 2D platform-based puzzle game where you control a vulnerable virus striving to survive in a microscopic world.
+  tags: ["videogame"]
+
+- name: Our Home (WIP)
+  image: /images/sections/projects/ourhome.png
+  role: Solo developer
+  timeline: "2024"
+  #url: ""
+  summary: This is a deeply personal project where I wanted to experiment with creating an interactive narrative experience. <br>Through this game, I aimed to convey the emotions and challenges of navigating a difficult and transformative period in my life. 
+  tags: ["videogame", "personal"]
 
 - name: Matryoshka
-  role: Game Designer
+  image: /images/sections/projects/matri.png
+  role: Game Designer, Programmer
   timeline: "GMTKJam 2024"
-  url: "https://www.example.com"
-  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
-  tags: ["gamejam","iot"]
+  url: "https://finitto.itch.io/matryoshka"
+  summary: Matryoshka! is a charming puzzle game where you navigate the stages of life through the lens of a matryoshka doll.<br>The theme for the game jam was "Built to scale", so we choose the ultimate built to scale toy.
+  tags: ["gamejam","videogame"]
 
-- name: Our Home
-  logo: /images/sections/projects/no-code.png
-  role: Nothing
-  timeline: "Oct 2019 - Dec 2019"
-  repo: https://github.com/kelseyhightower/nocode
-  #url: ""
-  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-  tags: ["hobby", "fun"]
+- name: FPS Level Design study
+  image: /images/sections/projects/fpscreenshot.png
+  role: Developer
+  timeline: "2024"
+  summary: This project focuses on level blocking for a first-person horror game. <br>I aimed to explore how to create tension and suspense through level design, all while working with limited resources.
+  tags: ["personal"]
 
 - name: Joselito's Dreams
-  logo: /images/sections/projects/toha.png
-  image: /images/sections/projects/toha_website.png
-  role: Owner
-  timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme","professional"]
+  role: Developer
+  timeline: "GGJ 2024"
+  url: "https://acidgecko.itch.io/joselitos-dream"
+  summary: Videogame made for the GGJ 2024. <br>Not very sure what our purpose was here, but we had tons of fun making it.
+  tags: ["gamejam","videogame"]
+
+- name: DM Vault
+  logo: /images/sections/projects/dnd.jpg
+  role: Dungeon Master
+  summary: Notes and encounters designed for the TTRPGs I've runned as a DM
+  tags: ["personal"]
+
+
