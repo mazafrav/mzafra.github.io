@@ -14,15 +14,3 @@ author:
   image: images/site/logopizel.png
 math: true
 ---
-
-This is a sample post intended to test the followings:
-
-- A different post author.
-- Table of contents.
-- Markdown content rendering.
-- Math rendering.
-- Emoji rendering.
-
-{{< img src="/posts/pathogenesis/patho2.png" height="400" width="600" align="center" title="A boat at the sea" >}}
-
-{{< vs 3 >}}
