@@ -13,3 +13,6 @@ author:
   image: images/site/logopizel.png
 math: true
 ---
+{{< alert type="warning" >}}
+Page under construction.
+{{< /alert >}}
