@@ -14,9 +14,6 @@ author:
   image: images/site/logopizel.png
 math: true
 ---
-{{< alert type="warning" >}}
-Page under construction.
-{{< /alert >}}
 
 ## Level blocking for a FPS Horror game.
 
@@ -27,6 +24,12 @@ The first part is the rooftop of the building where the player receives informat
 The second part is the interior of the building, there are a couple of npcs that give hints to the player, along with keys, locked doors and pickups needed to move forward.
 
 Lastly, the final showdown occurs in the parking lot, where the player will face a swarm of "zombies" before reaching the goal.
+
+{{< vs 2>}}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CM8l61l7lCg?si=VZyt61vRLYbrOchY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+{{< vs 2>}}
 
 The level is designed so the player feels the tension of not knowing what to expect around the corner while looking for a way out. The rooms are dark and the light is used to highlight the points of interest.
 

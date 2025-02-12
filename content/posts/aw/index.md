@@ -1,6 +1,6 @@
 ---
 title: "Aard & Wyzz : The Rise Of Minions"
-date: 2020-06-08T08:06:25+06:00
+date: 2025-02-08T08:06:25+06:00
 description: "Aard & Wyzz : The Rise Of Minions"
 image: images/sections/projects/MainMenu.png
 hero: images/sections/projects/MainMenu.png
@@ -22,6 +22,7 @@ math: true
 {{< split 6 6>}}
 
 <br>
+<br>
 An <strong>adventure game</strong> featuring both <strong>combat and puzzles</strong> for two players, where you control two mages working together to fight their way through the newly-formed Minion Union.
 
 
@@ -32,18 +33,27 @@ An <strong>adventure game</strong> featuring both <strong>combat and puzzles</st
 
 
 
-<br><iframe width=100% height=100% src="https://www.youtube.com/embed/lkEnyQfBJ-Y?si=aps45bDQHxHgy3rh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br><iframe align="right" width=90% height=100% src="https://www.youtube.com/embed/lkEnyQfBJ-Y?si=aps45bDQHxHgy3rh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 {{< /split >}}
 
-<br><br>
+{{< vs 4>}}
+
+{{< img src="/posts/aw/aw4.png" height=45% width=45% float="left">}}
+{{< img src="/posts/aw/aw2.png" height=45% width=45% float="right">}}
+
+{{< vs 22>}}
+
 ## Development
 
-{{< split 6 6>}}
+{{< split 5 1 6>}}
 
+<br>
 The game is being developed using Unreal Engine 5 by a team of 18, including designers, programmers, artists, and producers.
 
 I'm serving as the lead designer, managing the design team and coordinating with other departments. While I work as a generalist designer, my primary focus is on technical design, level design, and camera-control-character systems.
+
+---
 
 ---
 
@@ -59,6 +69,8 @@ My work in this project includes:
 * VFX and shader implementation.
 
 {{< /split >}}
+
+{{< vs 4>}}
 
 ## Project Highlights
 

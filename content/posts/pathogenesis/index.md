@@ -1,6 +1,6 @@
 ---
 title: "Pathogenesis"
-date: 2020-06-08T08:06:25+06:00
+date: 2025-02-10T08:06:25+06:00
 description: "Pathogenesis"
 image: images/posts/pathoTitle.png
 hero: images/posts/pathoTitle.png
@@ -39,7 +39,7 @@ As the player traverses through levels, they must solve puzzles by infecting org
 
 ## Features
 
-{{< img src="/posts/pathogenesis/patho1.png" height=40% width=40% float="right" title="A boat at the sea" >}}
+{{< img src="/posts/pathogenesis/patho1.png" height=40% width=40% float="right" >}}
 
 {{< vs 2>}}
 
@@ -51,21 +51,19 @@ As the player traverses through levels, they must solve puzzles by infecting org
 
 * Generative Music: Unique, adaptive soundtracks that respond to your gameplay.
 
-{{< vs 2>}}
+{{< vs 4>}}
 
-{{< img src="/posts/pathogenesis/patho3.png" height=40% width=40% float="right" title="A boat at the sea" >}}
+{{< img src="/posts/pathogenesis/patho3.png" height=40% width=40% float="right">}}
 
 
 ### My work
 
-{{< vs 2>}}
+{{< vs 3>}}
 
 This project is made in Unity. My work in this project includes:
 
 * Game Designer
-
 * 2D Artist
-
 * Programmer
 
 {{< vs 5>}}
