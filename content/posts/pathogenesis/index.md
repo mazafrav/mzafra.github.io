@@ -8,24 +8,40 @@ menu:
   sidebar:
     name: Pathogenesis
     identifier: pathogenesis
-    weight: 30
+    weight: 32
 author:
   name: Manu Zafra
   image: images/site/logopizel.png
 math: true
 ---
 
-{{< alert type="warning" >}}
-Page under construction.
-{{< /alert >}}
-
 ## Platform-based puzzle game.
 
+{{< split 6 6>}}
+
+<br>
 Pathogenesis is a platform-based puzzle game where you control a vulnerable virus striving to survive in a microscopic world.
 
+<br>
 As the player traverses through levels, they must solve puzzles by infecting organisms and manipulating their environment in a mysterious and perilous land.
 
+{{< vs 4>}}
+
+### <a href="https://acidgecko.itch.io/pathogenesis">Demo available on Itch.io</a>
+
+---
+
+<iframe width=450 height=270 src="https://www.youtube.com/embed/G0yElqQinU0?si=1BOZnhvNFVZfbyQP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+{{< /split >}}
+
+{{< vs 2>}}
+
 ## Features
+
+{{< img src="/posts/pathogenesis/patho1.png" height=40% width=40% float="right" title="A boat at the sea" >}}
+
+{{< vs 2>}}
 
 * Infection: Use the virus's power to infect and manipulate your surroundings.
 
@@ -35,7 +51,14 @@ As the player traverses through levels, they must solve puzzles by infecting org
 
 * Generative Music: Unique, adaptive soundtracks that respond to your gameplay.
 
-## My work
+{{< vs 2>}}
+
+{{< img src="/posts/pathogenesis/patho3.png" height=40% width=40% float="right" title="A boat at the sea" >}}
+
+
+### My work
+
+{{< vs 2>}}
 
 This project is made in Unity. My work in this project includes:
 
@@ -44,3 +67,5 @@ This project is made in Unity. My work in this project includes:
 * 2D Artist
 
 * Programmer
+
+{{< vs 5>}}

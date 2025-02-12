@@ -8,7 +8,7 @@ menu:
   sidebar:
     name: FPS Study
     identifier: fpsstudy
-    weight: 30
+    weight: 34
 author:
   name: Manu Zafra
   image: images/site/logopizel.png
