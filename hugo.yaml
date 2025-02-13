@@ -153,19 +153,11 @@ params:
     analytics:
       enabled: false
       services:
-        # Google Analytics
-        google:
-          id: G-H4LBG7NDFZ
-        # # CounterDev
-        # counterDev:
-        #   id: <your counterdev id>
-        # # GoatCounter
-        # goatCounter:
-        #   code: <your goat counter code>
-        # # Matomo / Piwik
-        # matomo:
-        #   instance: matomo.example.com
-        #   siteId: 1 # Or any other number
+        # Umami Analytics
+        umami:
+          scheme: https
+          instance: analytics.eu.umami.is
+          id: 9790b36e-3bd1-467e-8297-8d669cfebafb
 
     # Enable Support
     support:
