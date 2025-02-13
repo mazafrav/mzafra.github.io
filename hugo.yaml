@@ -153,11 +153,10 @@ params:
     analytics:
       enabled: false
       services:
-        # Umami Analytics
-        umami:
-          scheme: https
-          instance: cloud.umami.is/script.js
-          id: 9790b36e-3bd1-467e-8297-8d669cfebafb
+    # GoatCounter
+        goatCounter:
+            code: manuzafraportfolio  # Not self-hosted
+            #instance: manuzafraportfolio.goatcounter.com/count  # For self-hosted you should use only one of the two methods
 
     # Enable Support
     support:
