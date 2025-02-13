@@ -156,7 +156,7 @@ params:
         # Umami Analytics
         umami:
           scheme: https
-          instance: analytics.eu.umami.is
+          instance: cloud.umami.is/script.js
           id: 9790b36e-3bd1-467e-8297-8d669cfebafb
 
     # Enable Support
